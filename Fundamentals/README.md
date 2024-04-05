@@ -29,7 +29,7 @@ go run main.go
 
 ## Variables
 
-- Go compiler throws an error if we define a variable but not use it - To enforce better code quality
+- Go compiler throws an error if we define variable but not use it - To enforce better code quality
 - We can use `fmt.Printf` to format values in a print statement. For example:
 ```go
 var confName = "GopherCon Community Edition 2024"
